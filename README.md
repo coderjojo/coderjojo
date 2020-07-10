@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm Vedant Jajoo currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer :computer:. Intrested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm Vedant currently a Third Year CSE student at <a href="http://www.viit.ac.in/">@VIIT :school: </a> and aspiring software developer :computer:. Intrested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
@@ -36,6 +36,6 @@
 </a>
 <a href="https://www.quora.com/profile/Vedant-Jajoo-1">
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
-</a>
+</a><br/><br/>
 
-
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo)
