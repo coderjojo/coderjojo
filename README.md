@@ -39,10 +39,11 @@
 </a><br/><br/>
 <p align="center">
 <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
-
-
 </p>
 <br/><br/>
 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo)
+
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
+
+![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
