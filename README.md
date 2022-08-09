@@ -3,7 +3,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Vedant</a> currently a Final Year CSE student at <a href="http://www.viit.ac.in/">@VIIT </a> and aspiring software developer. My interest lies in field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionaly I do participate in Hackathons and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://coderjojo.netlify.app/">Vedant</a> currently working at <a href="https://www.nutanix.com/">@Nutanix </a>. Learning about Platform/Infra engineering, DevOps and Backend Development. 
   </samp>
 </p>
 
